@@ -2,6 +2,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hello welcom to jenkins");
+	printf("Hello welcome to jenkins");
 	return 0;
 }
